@@ -1,0 +1,30 @@
+.container{
+    width:80%;
+    margin:0 auto;
+}
+h1{
+    text-align: center;
+}
+img{
+    width:100%;
+}
+.middle{
+    display: flex;
+    align-items: flex-start;
+}
+.second{
+    width:50%;
+    padding:0% 5%;
+}
+.fourth{
+    width:80%;
+}
+.footer{
+    display: flex;
+}
+.first, .third, .fifth{
+    width:20%;
+}
+.third, .fifth{
+    background-color: yellow;
+}
